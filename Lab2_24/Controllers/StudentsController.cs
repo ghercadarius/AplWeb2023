@@ -25,6 +25,7 @@ namespace Lab2_24.Controllers
             return students.OrderBy(o => o.Age).ToList();
         }
 
+
         // Create
 
         [HttpPost]
