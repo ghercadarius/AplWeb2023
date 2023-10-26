@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mf4/LZLBkDWpD27OwN9tKtJrJn8oMf5Dp2GUpBWggc1/0xJ+TG9x8klBhAN3AGcRC6mv3BPyG536YYi1RtYIMg==",
+  "success": true,
+  "projectFilePath": "E:\\GITHUB\\AplWeb2023\\Lab2_24\\Lab2_24.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darius Gherca\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
+    "C:\\Users\\Darius Gherca\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Darius Gherca\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Darius Gherca\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Darius Gherca\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Darius Gherca\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Darius Gherca\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
