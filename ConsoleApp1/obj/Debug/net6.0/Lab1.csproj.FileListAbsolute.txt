@@ -1,0 +1,4 @@
+E:\GITHUB\AplWeb2023\ConsoleApp1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GITHUB\AplWeb2023\ConsoleApp1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+E:\GITHUB\AplWeb2023\ConsoleApp1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+E:\GITHUB\AplWeb2023\ConsoleApp1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
